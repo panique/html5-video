@@ -89,3 +89,9 @@ The used image and video are parts of the Peach Open Movie project and licensed 
 - [DiveIntoHTML5 - Video on the web](http://diveintohtml5.info/video.html)
 - This project was inspired by the [Video For Everybody Generator](http://v4e.thewikies.com/)
   (that still works quite well but has some legal issues and hotlinks player files).
+
+### Support & Donate
+
+If this saves you a lot of time, stress and money, then consider leaving a dollar on the coffee tip box via
+[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P5YLUK4MW3LDG) or get a new $5 server
+at [DigitalOcean](https://www.digitalocean.com/?refcode=40d978532a20).
