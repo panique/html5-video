@@ -43,6 +43,7 @@ Note the encoded URL in `<param name="flashVars" ...`. More on how to encode
 [here on Wikipedia](http://en.wikipedia.org/wiki/Percent-encoding).
 
 There's an article on this script on DEV METAL:
+
 [Crossbrowser-safe HTML5 video (IE6+) with a few lines of code and just one .mp4 video file]
 (http://www.dev-metal.com/crossbrowser-safe-html5-video-ie6-lines-code)
 
