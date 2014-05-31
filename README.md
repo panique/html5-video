@@ -18,7 +18,7 @@ Due to Flash security restrictions this will only work on a real server (that ha
 environment, like localhost / 127.0.0.1! DON'T simply open a .html file (that lays on your desktop) containing the
 above code with a double-click. This will not work (due to flash's security restrictions).
 
-```
+```html
 <!-- HTML5 video tag -->
 <video controls="controls" poster="img/demo.jpg" width="640" height="360">
     <!-- .mp4 file for native playback in IE9+, Firefox, Chrome, Safari and most mobile browsers -->
@@ -48,7 +48,7 @@ there's a fine flash fallback also Opera users can see the video. Unless they al
 do people who surf with Opera AND reject to install flash deserve to see a video ? Those bloody idiots!
 If you are forced to still give native support for Opera, then add an .ogv file right after the first source tag:
 
-```
+```html
 <!-- note the .ogv format but the ogg mime type -->
 <source src="vid/demo.ogv" type="video/ogg" />
 ```
