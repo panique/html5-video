@@ -42,6 +42,10 @@ above code with a double-click. This will not work (due to flash's security rest
 Note the encoded URL in `<param name="flashVars" ...`. More on how to encode
 [here on Wikipedia](http://en.wikipedia.org/wiki/Percent-encoding).
 
+There's an article on this script on DEV METAL:
+[Crossbrowser-safe HTML5 video (IE6+) with a few lines of code and just one .mp4 video file]
+(http://www.dev-metal.com/crossbrowser-safe-html5-video-ie6-lines-code)
+
 ### Why only .mp4 and no .ogv or .webm ?
 
 Good question! These days every HTML5 browser (IE9+, Chrome, Firefox, Safari, most mobile browsers) is able to play
