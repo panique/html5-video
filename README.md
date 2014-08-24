@@ -95,5 +95,5 @@ The used image and video are parts of the Peach Open Movie project and licensed 
 If this saves you a lot of time, stress and money, then consider leaving a dollar on the coffee tip box via
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P5YLUK4MW3LDG), get a new $5 server
 at [DigitalOcean](https://www.digitalocean.com/?refcode=40d978532a20) or
-[Flattr](https://flattr.com/submit/auto?user_id=panique&url=https%3A%2F%2Fgithub.com%2Fpanique%2Fpdo-debug)
+[Flattr](https://flattr.com/submit/auto?user_id=panique&url=https%3A%2F%2Fgithub.com%2Fpanique%2Fhtml5-video)
 this project.
