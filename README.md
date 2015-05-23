@@ -92,5 +92,4 @@ The used image and video are parts of the Peach Open Movie project and licensed 
 
 ### Support & Donate
 
-If this saves you a lot of time, stress and money, then consider leaving a dollar on the coffee tip box via
-[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P5YLUK4MW3LDG), or get a new cheap server at [Host1Plus](https://affiliates.host1plus.com/ref/devmetal/36f4d828.html) or [DigitalOcean](https://www.digitalocean.com/?refcode=40d978532a20). Thanks!
+If this saves you a lot of time, stress and money, then consider getting a new cheap server at [Host1Plus](https://affiliates.host1plus.com/ref/devmetal/36f4d828.html) or [DigitalOcean](https://www.digitalocean.com/?refcode=40d978532a20). Thanks!
