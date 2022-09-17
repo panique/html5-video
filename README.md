@@ -92,4 +92,7 @@ The used image and video are parts of the Peach Open Movie project and licensed 
 
 ### Support & Donate
 
-If this saves you a lot of time, stress and money, then consider getting a new cheap server at [Host1Plus](https://affiliates.host1plus.com/ref/devmetal/36f4d828.html) or [DigitalOcean](https://www.digitalocean.com/?refcode=40d978532a20). Thanks!
+If this saves you a lot of time, stress and money, then consider getting a new cheap server at [DigitalOcean](https://www.digitalocean.com/?refcode=40d978532a20). Thanks!
+
+Or tip a coffee ;)
+<a href="https://www.buymeacoffee.com/panique" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
